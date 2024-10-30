@@ -10,9 +10,9 @@ public class square23 {
         // for(int i = 1; i<=n; i++){
         //     System.out.print(i+1);
         // }
-        System.out.println();
+        // System.out.println();
         for(int iOuter = 1; iOuter <= n; iOuter++){
-            for(int i = 1; i<=n; i++){
+            for(int i = 0; i<=n; i++){
                 System.out.print("*");
             }
             System.out.println();
